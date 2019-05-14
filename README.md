@@ -12,7 +12,7 @@ Intruction for project setup
         DB_DATABASE=test_db
         DB_USERNAME=root
         DB_PASSWORD='Swan123#'
-6. php artisan config:clear
+6. php artisan key:gen
 7. php artisan migrate
 8. php artisan db:seed
 9. ./clear.sh
