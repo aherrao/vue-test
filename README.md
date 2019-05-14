@@ -4,12 +4,12 @@ Intruction for project setup
 1. git clone https://github.com/swan03/vue-test.git
 2. cd vue-test
 3. composer update
-4. Open mysql and create databse 'test'
+4. Open mysql and create databse 'test_db'
 5. configure .env file at root level
         DB_CONNECTION=mysql
         DB_HOST=127.0.0.1
         DB_PORT=3306
-        DB_DATABASE=bullscript_stage
+        DB_DATABASE=test_db
         DB_USERNAME=root
         DB_PASSWORD='Swan123#'
 6. php artisan config:clear
