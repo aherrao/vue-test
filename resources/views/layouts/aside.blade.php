@@ -25,47 +25,11 @@
               <p>Projects</p>
             </a>
           </li>
-		  <li class="nav-item">
-            <a href="/sprints" class="nav-link">
-              <i class="nav-icon fa fa-paper-plane"></i>
-              <p>Sprints</p>
-            </a>
-          </li>
-		  <li class="nav-item">
-            <a href="/tasks" class="nav-link">
-              <i class="nav-icon fa fa-tasks"></i>
-              <p>Tasks</p>
-            </a>
-          </li>
-          <li class="nav-item">
-            <a href="/scrum" class="nav-link">
-              <i class="nav-icon fa fa-calendar-check-o"></i>
-              <p>Scrum</p>
-            </a>
-          </li>
-		  <li class="nav-item">
-            <a href="/timer" class="nav-link">
-              <i class="nav-icon fa fa-clock-o"></i>
-              <p>Timer</p>
-            </a>
-          </li>
           <li class="nav-header">Admin</li>
-		  <li class="nav-item">
-            <a href="/metric" class="nav-link">
-              <i class="nav-icon fa fa-line-chart"></i>
-              <p>Metric</p>
-            </a>
-          </li>
           <li class="nav-item">
             <a href="/users" class="nav-link">
               <i class="nav-icon fa fa-group"></i>
               <p>Users</p>
-            </a>
-          </li>
-		  <li class="nav-item">
-            <a href="/settings" class="nav-link">
-              <i class="nav-icon fa fa-gear"></i>
-              <p>Settings</p>
             </a>
           </li>
           <li class="nav-header">Support</li>
@@ -73,12 +37,6 @@
             <a href="/docs" class="nav-link">
               <i class="nav-icon fa fa-file"></i>
               <p>Documentation</p>
-            </a>
-          </li>
-		  <li class="nav-item">
-            <a href="/tickets" class="nav-link">
-              <i class="nav-icon fa fa-support"></i>
-              <p>Tickets</p>
             </a>
           </li>
         </ul>
