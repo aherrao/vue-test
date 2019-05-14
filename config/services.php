@@ -15,9 +15,9 @@ return [
     */
 
     'mailgun' => [
-        'domain' => env('MAILGUN_DOMAIN', 'bullscript.com'),
-        'secret' => env('MAILGUN_SECRET', 'key-1ac98431b33f1df3cf4b1488e90fb8e3'),
-        'endpoint' => env('MAILGUN_ENDPOINT', 'api.mailgun.net'),
+        'domain' => env('MAILGUN_DOMAIN', ''),
+        'secret' => env('MAILGUN_SECRET', ''),
+        'endpoint' => env('MAILGUN_ENDPOINT', ''),
     ],
 
     'postmark' => [
